@@ -2,5 +2,9 @@ html {
     box-sizing: border-box;
 }
 *, *:after, *:before {
-    box-sizing: inherit
+    box-sizing: inherit;
+}
+
+body {
+    background: #2C2141;
 }
